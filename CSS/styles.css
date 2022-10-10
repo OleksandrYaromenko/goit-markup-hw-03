@@ -26,8 +26,6 @@ ul {
 }
 /* HEADER */
 .header {
-  margin-left: 215px;
-  margin-right: 215px;
   border-bottom: 1px solid var(--border-color);
 ;
 

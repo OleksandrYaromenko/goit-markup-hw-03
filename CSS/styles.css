@@ -173,6 +173,9 @@ padding-bottom: 200px;
   letter-spacing: 0.03em;
   color: var(--black-color);
 }
+.we-do{
+padding-top: 0px;
+}
 
 .main-benefits-title {
   font-size: 14px;
